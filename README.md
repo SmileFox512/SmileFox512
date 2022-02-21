@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, Wecome to visit my github.</h1>
+<h1 align="center">Hi 👋, Welcome to visit my github.</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 <br>
 
 - 💬 Ask me about **Node, Laravel, React, Vue, Angular, Ruby On Rails, Golang, Shopiry, BlockChain.**
 
 - 📫 How to reach me **fullstackdev94512@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 
 <img alt="Skype icon" src="https://img.icons8.com/color/2x/skype--v4.png 2x" style="height: 48px; width: 48px;"><br> 
