@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer.</h3>
 <br>
 
-- 💬 Ask me about **Node, Laravel, React, Vue, Angular, Ruby On Rails, Golang, Shopiry, BlockChain.**
+- 💬 Ask me about **Node, Laravel, React, Vue, Angular, Ruby On Rails, Golang, Shopify, BlockChain.**
 
 - 📫 How to reach me **fullstackdev94512@gmail.com**
 
