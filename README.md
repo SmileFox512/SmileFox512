@@ -6,6 +6,8 @@
 <h5 align="center">Freelancer Experience: More than 6 months</h5>
 <br>
 
+- 🧑🏼‍🔬 Working as a front-end engineer on a large-scale project for 7 years
+
 - 💬 Ask me about **Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang, BlockChain.**
 
 - 📫 How to reach me **fullstackdev94512@gmail.com**
