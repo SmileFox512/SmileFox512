@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Welcome to visit my github.</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 
-<h5 align="center">Development Year: More than 8 years</h5>
-<br>
-<h5 align="center">Company experience: 7 years and 6 months</h5>
+<h5 align="center">Development Experience: More than 8 years</h5>
+<h5 align="center">Company Experience: 7 years and 6 months</h5>
+<h5 align="center">Freelancer Experience: More than 6 months</h5>
 <br>
 
 - 💬 Ask me about **Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang, BlockChain.**
