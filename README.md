@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full stack developer.</h3>
 
 <h5 align="center">Development Experience: More than 8 years</h5>
-<h5 align="center">Company Experience: 7 years and 6 months</h5>
-<h5 align="center">Freelancer Experience: More than 6 months</h5>
+<h5 align="center">Company Experience: 7 years</h5>
+<h5 align="center">Freelancer Experience: More than 1 year</h5>
 <br>
 
 - 🧑🏼‍🔬 Working as a front-end engineer on a large-scale project for 7 years
