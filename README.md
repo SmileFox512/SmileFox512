@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang, BlockChain.**
 
-- 📫 How to reach me **fullstackdev94512@gmail.com**
+- 📫 How to reach me **smilefox512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
