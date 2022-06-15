@@ -8,7 +8,7 @@
 
 - 🧑🏼‍🔬 Working as a front-end engineer on a large-scale project for 7 years
 
-- 💬 Ask me about **Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang, BlockChain.**
+- 💬 Ask me about **Wordpress, Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang, BlockChain.**
 
 - 📫 How to reach me *smilefox512@gmail.com*
 
